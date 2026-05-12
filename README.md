@@ -82,7 +82,7 @@ Connectez Power BI à la base SQL et créez un rapport comprenant :
 
 ## Livrables attendus
 
-* **Fichier SQL** : requetes_analyse.sql contenant toutes les requêtes des missions A et B.
+* **Fichier SQL** : `requetes_analyse.sql` contenant toutes les requêtes des missions A et B.
 
 * **Fichier Power BI (`crg_dashboard_v1.pbix`)** : Le dashboard interactif et fonctionnel.
 
@@ -92,8 +92,8 @@ Connectez Power BI à la base SQL et créez un rapport comprenant :
 
 Le lien vers le repos Github sur lequel vous allez déposer votre travail :
 
-Pour la classe 2026-janvier-da-soir-b cliquez ici.
-Pour la classe 2026-janvier-da-midi-c cliquez ici.
+Pour la classe 2026-janvier-da-soir-b.
+Pour la classe 2026-janvier-da-midi-c.
 
 Vous trouverez également les fichier avec lesquels vous devez travailler sur le repos Github.
 

@@ -9,6 +9,13 @@ Le Groupe dispose d'une base de données SQL centralisée nommée `crg_mining_db
 
 
 
+## MLD Magasin de sport run and win
+
+![MLD CRG Mining](./crg-mining-mld.png "MLD CRG Mining")
+
+
+
+
 ## Objectifs pédagogiques
 
 Ce projet vous permet de valider les compétences du Module 2 :

@@ -92,8 +92,8 @@ Connectez Power BI à la base SQL et créez un rapport comprenant :
 
 Le lien vers le repos Github sur lequel vous allez déposer votre travail :
 
-Pour la classe 2026-janvier-da-soir-b.
-Pour la classe 2026-janvier-da-midi-c.
+* Pour la classe 2026-janvier-da-soir-b.
+* Pour la classe 2026-janvier-da-midi-c.
 
 Vous trouverez également les fichier avec lesquels vous devez travailler sur le repos Github.
 
